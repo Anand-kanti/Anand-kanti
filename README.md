@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... frontend development
 - 📫 How to reach me ... anandkanti113@gmail.com
 - 😄 Pronouns: ... Anand
-- ⚡ Fun fact: ... I am looking for job.
+- ⚡ Fun fact: ... I am looking for job. 
 
 <!---
 Anand-kanti/Anand-kanti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
